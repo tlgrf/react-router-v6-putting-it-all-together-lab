@@ -34,6 +34,14 @@
             "Drama",
             "Thriller"
           ]
+        },
+        {
+          "id": "f413ced7-33d1-4e2f-b918-6ff0173f4340",
+          "title": "Sinister 2",
+          "time": 120,
+          "genres": [
+            "Horror"
+          ]
         }
       ]
     },
